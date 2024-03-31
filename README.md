@@ -1,5 +1,5 @@
-# Fraud_Detection
-Synthetic Financial Datasets For Fraud Detection
+### Fraud_Detection
+- Synthetic Financial Datasets For Fraud Detection
 
 
 ![image](https://github.com/pimchanapat/Fraud_Detection/assets/101921196/e8a31136-8c11-496c-b5cd-118f37229189)
